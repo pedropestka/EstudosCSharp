@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca5", "Heranca5\Heranc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca6", "Heranca6\Heranca6.csproj", "{A83AB476-5167-4B70-8E07-E99ACDA2AA74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca7", "Heranca7\Heranca7.csproj", "{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A83AB476-5167-4B70-8E07-E99ACDA2AA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A83AB476-5167-4B70-8E07-E99ACDA2AA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A83AB476-5167-4B70-8E07-E99ACDA2AA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
