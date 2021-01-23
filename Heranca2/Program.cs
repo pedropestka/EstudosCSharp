@@ -16,7 +16,6 @@ namespace Heranca2
             Console.WriteLine(acc1.Balance);
             Console.WriteLine(acc2.Balance);
 
-
             Console.ReadLine();
         }
     }
