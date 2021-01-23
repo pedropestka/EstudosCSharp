@@ -21,3 +21,38 @@ namespace Heranca2
         }
     }
 }
+
+
+
+
+/*
+ * SEALED
+ * usado para nao permitir que uma classe ou método seja herdado
+ * 
+ * 
+ * CLASSE SELADA
+ * Nota: ainda é possível extender a funcionalidade de uma classe selada usando
+ * "extension methods"
+ * 
+ * Exemplo:
+ * 
+ * namespace Course {
+ * sealed class SavingsAccount {
+ * (...)
+ * }
+ * 
+ * 
+ * 
+ * MÉTODO SELADO
+ * Só pode ser aplicado a métodos sobrepostos
+ * 
+ * Exemplo:
+ * 
+ * public sealed override void Withdraw(double amount)
+ * {
+ * base.Withdraw(amount);
+ * Balance -= 2.0;
+ * }
+ * 
+ *  
+ */

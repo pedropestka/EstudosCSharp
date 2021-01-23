@@ -53,6 +53,8 @@ namespace Heranca1
  * base
  * upcasting
  * downcasting
+ * is
+ * as
  * 
  * Curso C# Completo - Prof Nelio Alves - vídeos 126 e 127
  * 
