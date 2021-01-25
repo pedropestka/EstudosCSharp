@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos4", "Arquivos4\Arqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos5", "Arquivos5\Arquivos5.csproj", "{D01E4AF1-77A0-4629-BAC7-7EA97CCD6E15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos6", "Arquivos6\Arquivos6.csproj", "{1292030D-5D6F-4E4C-BA4C-442533BE04AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{D01E4AF1-77A0-4629-BAC7-7EA97CCD6E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D01E4AF1-77A0-4629-BAC7-7EA97CCD6E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D01E4AF1-77A0-4629-BAC7-7EA97CCD6E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
