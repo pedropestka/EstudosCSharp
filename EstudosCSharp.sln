@@ -7,45 +7,47 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String1", "String1\String1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeracao1", "Enumeracao1\Enumeracao1.csproj", "{A0D95A74-4B7F-49AE-A36C-A66B73A09405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao1", "Composicao1\Composicao1.csproj", "{22F1F787-9E4C-4D75-9A53-E4BE6B1866A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composicao1", "Composicao1\Composicao1.csproj", "{22F1F787-9E4C-4D75-9A53-E4BE6B1866A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao2", "Composicao2\Composicao2.csproj", "{3EE9F5D4-AF70-409A-8ECE-D49D80346353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composicao2", "Composicao2\Composicao2.csproj", "{3EE9F5D4-AF70-409A-8ECE-D49D80346353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao3", "Composicao3\Composicao3.csproj", "{85D117CD-8983-4F1D-A2AA-172245FBE1C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composicao3", "Composicao3\Composicao3.csproj", "{85D117CD-8983-4F1D-A2AA-172245FBE1C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca1", "Heranca1\Heranca1.csproj", "{CB40DC46-E8F6-4500-8A74-020831E287FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca1", "Heranca1\Heranca1.csproj", "{CB40DC46-E8F6-4500-8A74-020831E287FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca2", "Heranca2\Heranca2.csproj", "{AF4A023F-388D-44C9-9E58-87DEF5313877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca2", "Heranca2\Heranca2.csproj", "{AF4A023F-388D-44C9-9E58-87DEF5313877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca4", "Heranca4\Heranca4.csproj", "{E6DA9366-A192-4BE1-ABF1-C420D09EF7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca4", "Heranca4\Heranca4.csproj", "{E6DA9366-A192-4BE1-ABF1-C420D09EF7B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca5", "Heranca5\Heranca5.csproj", "{05B313EA-88AE-426E-8070-F2709E27827F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca5", "Heranca5\Heranca5.csproj", "{05B313EA-88AE-426E-8070-F2709E27827F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca6", "Heranca6\Heranca6.csproj", "{A83AB476-5167-4B70-8E07-E99ACDA2AA74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca6", "Heranca6\Heranca6.csproj", "{A83AB476-5167-4B70-8E07-E99ACDA2AA74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca7", "Heranca7\Heranca7.csproj", "{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca7", "Heranca7\Heranca7.csproj", "{12C7E377-C3CE-4F0B-9967-9F6AC9C4C006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca8", "Heranca8\Heranca8.csproj", "{D34BF6BD-57E4-4887-AB7F-28BA50CD3628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca8", "Heranca8\Heranca8.csproj", "{D34BF6BD-57E4-4887-AB7F-28BA50CD3628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excecoes1", "Excecoes1\Excecoes1.csproj", "{137E4128-E169-4C1B-8B4B-6C75D53A6453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excecoes1", "Excecoes1\Excecoes1.csproj", "{137E4128-E169-4C1B-8B4B-6C75D53A6453}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excecoes2", "Excecoes2\Excecoes2.csproj", "{EE15F5F3-EBBF-4E6C-AC26-42E7EC9AF2D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excecoes2", "Excecoes2\Excecoes2.csproj", "{EE15F5F3-EBBF-4E6C-AC26-42E7EC9AF2D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos1", "Arquivos1\Arquivos1.csproj", "{97A1089C-8724-4554-AEE7-F44C210F481E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos1", "Arquivos1\Arquivos1.csproj", "{97A1089C-8724-4554-AEE7-F44C210F481E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos2", "Arquivos2\Arquivos2.csproj", "{4E7A8FD5-95CF-4D2D-9911-11AC9F289372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos2", "Arquivos2\Arquivos2.csproj", "{4E7A8FD5-95CF-4D2D-9911-11AC9F289372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos2b", "Arquivos2b\Arquivos2b.csproj", "{D742C52B-D18B-47DB-A846-E6F70D3F0FA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos2b", "Arquivos2b\Arquivos2b.csproj", "{D742C52B-D18B-47DB-A846-E6F70D3F0FA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos3", "Arquivos3\Arquivos3.csproj", "{1F4B7F1A-D697-4AC4-954C-8BEC92413A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos3", "Arquivos3\Arquivos3.csproj", "{1F4B7F1A-D697-4AC4-954C-8BEC92413A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos3b", "Arquivos3b\Arquivos3b.csproj", "{069E1DFC-A6F1-4F81-808F-A51D1BF7E989}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos3b", "Arquivos3b\Arquivos3b.csproj", "{069E1DFC-A6F1-4F81-808F-A51D1BF7E989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos4", "Arquivos4\Arquivos4.csproj", "{7A70F5F2-4E6E-4F72-9C01-9744C2F2D25C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos4", "Arquivos4\Arquivos4.csproj", "{7A70F5F2-4E6E-4F72-9C01-9744C2F2D25C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos5", "Arquivos5\Arquivos5.csproj", "{D01E4AF1-77A0-4629-BAC7-7EA97CCD6E15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos5", "Arquivos5\Arquivos5.csproj", "{D01E4AF1-77A0-4629-BAC7-7EA97CCD6E15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos6", "Arquivos6\Arquivos6.csproj", "{1292030D-5D6F-4E4C-BA4C-442533BE04AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos6", "Arquivos6\Arquivos6.csproj", "{1292030D-5D6F-4E4C-BA4C-442533BE04AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos7", "Arquivos7\Arquivos7.csproj", "{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1292030D-5D6F-4E4C-BA4C-442533BE04AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
