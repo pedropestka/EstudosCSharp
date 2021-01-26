@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos6", "Arquivos6\Arqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos7", "Arquivos7\Arquivos7.csproj", "{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces01", "Interfaces01\Interfaces01.csproj", "{D7C002FA-EA6E-4420-B28D-D2CB3E398904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
