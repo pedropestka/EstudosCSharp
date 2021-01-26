@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Interfaces01.Entities
+namespace Interfaces02.Entities
 {
     class CarRental
     {
@@ -15,7 +15,7 @@ namespace Interfaces01.Entities
             Start = start;
             Finish = finish;
             Vehicle = vehicle;
-            Invoice = null; // dispensável
+            Invoice = null;
         }
     }
 }

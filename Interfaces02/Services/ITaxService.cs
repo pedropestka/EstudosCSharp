@@ -1,4 +1,4 @@
-﻿namespace Interfaces01.Services
+﻿namespace Interfaces02.Services
 {
     interface ITaxService
     {

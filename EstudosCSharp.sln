@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos5", "Arquivos5\Arqu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos6", "Arquivos6\Arquivos6.csproj", "{1292030D-5D6F-4E4C-BA4C-442533BE04AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquivos7", "Arquivos7\Arquivos7.csproj", "{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquivos7", "Arquivos7\Arquivos7.csproj", "{718DD0E1-E9F8-4E87-B63B-CC5F9B9839F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces01", "Interfaces01\Interfaces01.csproj", "{D7C002FA-EA6E-4420-B28D-D2CB3E398904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces01", "Interfaces01\Interfaces01.csproj", "{D7C002FA-EA6E-4420-B28D-D2CB3E398904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces02", "Interfaces02\Interfaces02.csproj", "{2E849052-6447-45E4-BF20-68CFB589074D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7C002FA-EA6E-4420-B28D-D2CB3E398904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E849052-6447-45E4-BF20-68CFB589074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E849052-6447-45E4-BF20-68CFB589074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E849052-6447-45E4-BF20-68CFB589074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E849052-6447-45E4-BF20-68CFB589074D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

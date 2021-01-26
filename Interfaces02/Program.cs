@@ -1,9 +1,9 @@
-﻿using Interfaces01.Entities;
-using Interfaces01.Services;
+﻿using Interfaces02.Entities;
+using Interfaces02.Services;
 using System;
 using System.Globalization;
 
-namespace Interfaces01
+namespace Interfaces02
 {
     class Program
     {
@@ -25,7 +25,7 @@ namespace Interfaces01
 
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental);
 
