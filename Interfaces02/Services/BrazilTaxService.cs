@@ -1,6 +1,6 @@
 ﻿namespace Interfaces02.Services
 {
-    class BrazilTaxService : ITaxService
+    class BrazilTaxService : ITaxService // nao é heranca!
     {
 
         public double Tax(double amount)
