@@ -18,7 +18,7 @@ namespace Interfaces06
                     {
                         list.Add(sr.ReadLine());
                     }
-                    list.Sort();
+                    list.Sort(); //ordenar a lista -- >> mas o objeto tem que implementar a interface IComparable
                     foreach (string str in list)
                     {
                         Console.WriteLine(str);
@@ -34,3 +34,11 @@ namespace Interfaces06
         }
     }
 }
+
+
+/*
+ * le o arquivo
+ * armazena numa lista
+ * le a lista
+ * 
+ */
