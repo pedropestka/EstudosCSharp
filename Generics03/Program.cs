@@ -7,25 +7,14 @@ namespace Generics03
     {
         static void Main(string[] args)
         {
-
             //Comparando dois objetos
             Client a = new Client { Name = "Maria", Email = "maria@gmail.com" };
             Client b = new Client { Name = "Alex", Email = "maria@gmail.com" };
-
 
             Console.WriteLine(a.Equals(b));
             Console.WriteLine(a == b); // compara a referencia de ponteiro de memória do objeto
             Console.WriteLine(a.GetHashCode());
             Console.WriteLine(b.GetHashCode());
-
-
-
-
-
-
-
-
-
 
 
 

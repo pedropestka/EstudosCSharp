@@ -5,7 +5,6 @@
         public string Name { get; set; }
         public string Email { get; set; }
 
-
         // comparar o Client com outro que virá como argumento em obj
         public override bool Equals(object obj)
         {
@@ -21,9 +20,5 @@
         {
             return Email.GetHashCode();
         }
-
-
-
-
     }
 }
