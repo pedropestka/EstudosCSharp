@@ -1,0 +1,581 @@
+[33mcommit 15a42c5a35f9f8534b390bc95a1dc78d1ca34782[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 30 13:37:59 2021 -0300
+
+    Generics 4 HashSet SortedSet NA S15 Aula 208
+
+ Generics04/Generics04.csproj |   8 [32m+++++[m
+ Generics04/Program.cs        |  77 [32m+++++++++++++++++++++++++++++++++++++++++++[m
+ Generics04/ex4.pdf           | Bin [31m0[m -> [32m3607644[m bytes
+ 3 files changed, 85 insertions(+)
+
+[33mcommit 77341e893b6878aa790a6c08deda4b1214ca2b6d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 30 11:18:02 2021 -0300
+
+    Generics 3 GetHashCode Equals NA S15 Aula 207
+
+ Generics03/Entities/Client.cs |   5 [31m-----[m
+ Generics03/Program.cs         |  11 [31m-----------[m
+ Generics03/ex3.pdf            | Bin [31m0[m -> [32m3232920[m bytes
+ 3 files changed, 16 deletions(-)
+
+[33mcommit fb6c96815cb9a4530a538cfd75be4d51680b9e5c[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 30 11:15:37 2021 -0300
+
+    Generics 2 Restricoes NA S15 Aula 207
+
+ Generics02/Entities/Products.cs           |   1 [31m-[m
+ Generics02/Program.cs                     |   1 [31m-[m
+ Generics02/Services/CalculationService.cs |   2 [32m+[m[31m-[m
+ Generics02/ex2.pdf                        | Bin [31m0[m -> [32m2299375[m bytes
+ 4 files changed, 1 insertion(+), 3 deletions(-)
+
+[33mcommit 392d8a43b554e3de1925b6f4ee6dedf1a9c64d0f[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 30 11:13:04 2021 -0300
+
+    Generics 1 NA S15 Aula 204
+
+ EstudosCSharp.sln                         |  22 [32m++++++++++++[m[31m--[m
+ Generics01/Generics01.csproj              |   8 [32m+++++[m
+ Generics01/PrintService.cs                |  43 [32m++++++++++++++++++++++++++[m
+ Generics01/Program.cs                     |  29 [32m++++++++++++++++++[m
+ Generics01/ex1.pdf                        | Bin [31m0[m -> [32m2812015[m bytes
+ Generics02/Entities/Products.cs           |  35 [32m++++++++++++++++++++++[m
+ Generics02/Generics02.csproj              |   8 [32m+++++[m
+ Generics02/Program.cs                     |  34 [32m+++++++++++++++++++++[m
+ Generics02/Services/CalculationService.cs |  27 [32m+++++++++++++++++[m
+ Generics03/Entities/Client.cs             |  29 [32m++++++++++++++++++[m
+ Generics03/Generics03.csproj              |   8 [32m+++++[m
+ Generics03/Program.cs                     |  48 [32m++++++++++++++++++++++++++++++[m
+ 12 files changed, 289 insertions(+), 2 deletions(-)
+
+[33mcommit 665e91b4a749eec835c4083ba2a632eb12e1d618[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Wed Jan 27 20:32:41 2021 -0300
+
+    Interfaces 6 NA S14 aula 202
+
+ Interfaces06/Program.cs | 12 [32m++++++++++[m[31m--[m
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+
+[33mcommit 5f8179795638904b919bf58b507023b22d749625[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 23:13:34 2021 -0300
+
+    Interfaces 6 NA S14 aula 202
+
+ EstudosCSharp.sln                |   6 [32m++++++[m
+ Interfaces06/Ex6.pdf             | Bin [31m0[m -> [32m4766855[m bytes
+ Interfaces06/Interfaces06.csproj |   8 [32m++++++++[m
+ Interfaces06/Program.cs          |  36 [32m++++++++++++++++++++++++++++++++++++[m
+ 4 files changed, 50 insertions(+)
+
+[33mcommit 4169d377e5681a32c06576c4c20b01e1991992b2[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 23:07:24 2021 -0300
+
+    Interfaces 5 NA S14 aula 201
+
+ EstudosCSharp.sln                   |  12 [32m+++++++++[m[31m---[m
+ Interfaces05/Devices/ComboDevice.cs |  17 [32m+++++++++++++++++[m
+ Interfaces05/Devices/Device.cs      |   7 [32m+++++++[m
+ Interfaces05/Devices/IPrinter.cs    |   5 [32m+++++[m
+ Interfaces05/Devices/IScanner.cs    |   5 [32m+++++[m
+ Interfaces05/Devices/Printer.cs     |  14 [32m++++++++++++++[m
+ Interfaces05/Devices/Scanner.cs     |  14 [32m++++++++++++++[m
+ Interfaces05/Ex5.pdf                | Bin [31m0[m -> [32m1547180[m bytes
+ Interfaces05/Interfaces05.csproj    |   8 [32m++++++++[m
+ Interfaces05/Program.cs             |  25 [32m+++++++++++++++++++++++++[m
+ 10 files changed, 104 insertions(+), 3 deletions(-)
+
+[33mcommit 10f4ff5face96b24a9595f4b0216fc7f13001e00[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 19:12:41 2021 -0300
+
+    Interfaces 4 NA S14 aula 201
+
+ Interfaces04/Program.cs | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit abb674bf886ba0078e66a86395166c946e85f068[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 19:10:21 2021 -0300
+
+    Interfaces 4 NA S14 aula 201
+
+ EstudosCSharp.sln                            |   6 [32m++++++[m
+ Interfaces04/Interfaces04.csproj             |   8 [32m++++++++[m
+ Interfaces04/Model/Entities/AbstractShape.cs |  10 [32m++++++++++[m
+ Interfaces04/Model/Entities/Circle.cs        |  22 [32m++++++++++++++++++++++[m
+ Interfaces04/Model/Entities/IShape.cs        |   6 [32m++++++[m
+ Interfaces04/Model/Entities/Rectangle.cs     |  24 [32m++++++++++++++++++++++++[m
+ Interfaces04/Model/Enums/Color.cs            |   6 [32m++++++[m
+ Interfaces04/Program.cs                      |  16 [32m++++++++++++++++[m
+ Interfaces04/ex4.pdf                         | Bin [31m0[m -> [32m2454887[m bytes
+ 9 files changed, 98 insertions(+)
+
+[33mcommit 2d97df8f94769633cec408a0798023d6acac0d91[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 10:57:25 2021 -0300
+
+    Interfaces 3 NA S14 aula 199
+
+ EstudosCSharp.sln                              |   6 [32m+++++[m
+ Interfaces03/Entities/Contract.cs              |  23 [32m++++++++++++++++++[m
+ Interfaces03/Entities/Installment.cs           |  21 [32m++++++++++++++++[m
+ Interfaces03/Interfaces03.csproj               |   8 [32m+++++++[m
+ Interfaces03/Program.cs                        |  32 [32m+++++++++++++++++++++++++[m
+ Interfaces03/Services/ContractService.cs       |  23 [32m++++++++++++++++++[m
+ Interfaces03/Services/IOnlinePaymentService.cs |   7 [32m++++++[m
+ Interfaces03/Services/PaypalService.cs         |  15 [32m++++++++++++[m
+ Interfaces03/ex3.pdf                           | Bin [31m0[m -> [32m2853389[m bytes
+ 9 files changed, 135 insertions(+)
+
+[33mcommit 3911ee0adb0e33a75f2a5d29eed5786651e328e1[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 10:28:26 2021 -0300
+
+    Interfaces 2 Exemplo com interfaces NA S14 aula 197
+
+ Interfaces02/Program.cs                   | 22 [32m++++++++++++++++++++[m[31m--[m
+ Interfaces02/Services/BrazilTaxService.cs |  2 [32m+[m[31m-[m
+ 2 files changed, 21 insertions(+), 3 deletions(-)
+
+[33mcommit 999a779d7b5723c270ea2bf82ed8968b0b5d2507[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Tue Jan 26 09:52:42 2021 -0300
+
+    Interfaces 1 Exemplo sem interfaces NA S14 aula 195
+
+ EstudosCSharp.sln                                  | 10 [32m++++[m[31m--[m
+ Interfaces01/Entities/CarRental.cs                 |  2 [32m+[m[31m-[m
+ Interfaces01/Entities/Invoice.cs                   |  5 [32m+[m[31m--[m
+ Interfaces01/Program.cs                            |  2 [32m+[m[31m-[m
+ Interfaces01/Services/BrazilTaxService.cs          |  2 [32m+[m[31m-[m
+ Interfaces01/Services/RentalService.cs             |  7 [32m++[m[31m--[m
+ Interfaces02/Entities/CarRental.cs                 | 21 [32m+++++++++++[m
+ Interfaces02/Entities/Invoice.cs                   | 32 [32m+++++++++++++++++[m
+ Interfaces02/Entities/Vehicle.cs                   | 13 [32m+++++++[m
+ Interfaces02/Interfaces02.csproj                   |  8 [32m+++++[m
+ Interfaces02/Program.cs                            | 36 [32m+++++++++++++++++++[m
+ Interfaces02/Services/BrazilTaxService.cs          | 18 [32m++++++++++[m
+ .../Services/ITaxService.cs                        |  2 [32m+[m[31m-[m
+ Interfaces02/Services/RentalService.cs             | 41 [32m++++++++++++++++++++++[m
+ 14 files changed, 185 insertions(+), 14 deletions(-)
+
+[33mcommit 0492c8410edd926dec9655bc45793de3a082e60a[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Mon Jan 25 21:44:03 2021 -0300
+
+    Interfaces 1 Exemplo sem interfaces NA S14 aula 195
+
+ EstudosCSharp.sln                         |   6 [32m+++++[m
+ Interfaces01/Entities/CarRental.cs        |  21 [32m+++++++++++++++[m
+ Interfaces01/Entities/Invoice.cs          |  35 [32m+++++++++++++++++++++++++[m
+ Interfaces01/Entities/Vehicle.cs          |  13 [32m++++++++++[m
+ Interfaces01/Ex1.pdf                      | Bin [31m0[m -> [32m2898021[m bytes
+ Interfaces01/Interfaces01.csproj          |   8 [32m++++++[m
+ Interfaces01/Program.cs                   |  36 [32m++++++++++++++++++++++++++[m
+ Interfaces01/Services/BrazilTaxService.cs |  18 [32m+++++++++++++[m
+ Interfaces01/Services/ITaxService.cs      |   8 [32m++++++[m
+ Interfaces01/Services/RentalService.cs    |  41 [32m++++++++++++++++++++++++++++++[m
+ 10 files changed, 186 insertions(+)
+
+[33mcommit 85cfbdefb4c59e0927e78c053ab8b409cfb03627[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Mon Jan 25 18:21:22 2021 -0300
+
+    Arquivos 7 NA S13 aula 192
+
+ Arquivos7/Arquivos7.csproj    |   8 [32m+++++++[m
+ Arquivos7/Entities/Product.cs |  22 [32m+++++++++++++++++++[m
+ Arquivos7/Ex7.pdf             | Bin [31m0[m -> [32m1420742[m bytes
+ Arquivos7/Program.cs          |  49 [32m++++++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln             |  46 [32m++++++++++++++++++++++[m[31m-----------------[m
+ 5 files changed, 105 insertions(+), 20 deletions(-)
+
+[33mcommit e7ed2b338d6140f5fc1fc8c9b09fd8fd9de1985f[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sun Jan 24 21:31:18 2021 -0300
+
+    Arquivos 6 Path NA S13 aula 191
+
+ Arquivos6/Arquivos6.csproj |  8 [32m+++++++[m
+ Arquivos6/Program.cs       | 57 [32m++++++++++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln          |  6 [32m+++++[m
+ 3 files changed, 71 insertions(+)
+
+[33mcommit 947680d7b42520fac5b032d682eca94f4c66ed7f[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sun Jan 24 15:42:59 2021 -0300
+
+    Arquivos 5 Listar Pastas/Arquivos Criar Pasta Directory EnumerateDirectories EnumerateFiles CreateDirectory  NA S13 aula 190
+
+ Arquivos5/Arquivos5.csproj |  8 [32m+++++++[m
+ Arquivos5/Program.cs       | 52 [32m++++++++++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln          |  6 [32m++++++[m
+ 3 files changed, 66 insertions(+)
+
+[33mcommit 37397980598d016a853af4e07f2f8fdc789f03f8[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sun Jan 24 14:42:44 2021 -0300
+
+    Arquivos 4 StreamWriter AppendText WriteLine ToUpper NA S13 aula 189
+
+ Arquivos4/Arquivos4.csproj |  8 [32m++++++++[m
+ Arquivos4/Program.cs       | 41 [32m+++++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln          |  6 [32m++++++[m
+ 3 files changed, 55 insertions(+)
+
+[33mcommit f12a7a40e236180d63f256efdbb01516a4355e2f[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sun Jan 24 14:30:12 2021 -0300
+
+    Arquivos 3 Bloco using NA S13 aula 188
+
+ Arquivos3/Arquivos3.csproj   |  8 [32m++++++++[m
+ Arquivos3/Program.cs         | 41 [32m+++++++++++++++++++++++++++++++++++++++++[m
+ Arquivos3b/Arquivos3b.csproj |  8 [32m++++++++[m
+ Arquivos3b/Program.cs        | 35 [32m+++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln            | 12 [32m++++++++++++[m
+ 5 files changed, 104 insertions(+)
+
+[33mcommit 0ebbae5f01cb77bf4267e229ddb2e4e4c873a143[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sun Jan 24 13:23:12 2021 -0300
+
+    Arquivos 2 StreamReader FileStream File OpenText EndOfStream FileMode Close NA S13 aula 186
+
+ Arquivos2/Arquivos2.csproj   |  8 [32m++++++++[m
+ Arquivos2/Program.cs         | 49 [32m++++++++++++++++++++++++++++++++++++++++++++[m
+ Arquivos2b/Arquivos2b.csproj |  8 [32m++++++++[m
+ Arquivos2b/Program.cs        | 39 [32m+++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln            | 12 [32m+++++++++++[m
+ 5 files changed, 116 insertions(+)
+
+[33mcommit e8da287b6a645d5809fa4f23da6474dafd6cefe1[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 23:58:26 2021 -0300
+
+    Arquivos 1 FileInfo NA S13 aula 186
+
+ Arquivos1/Arquivos1.csproj |  8 [32m++++++++[m
+ Arquivos1/Program.cs       | 41 [32m+++++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln          |  6 [32m++++++[m
+ 3 files changed, 55 insertions(+)
+
+[33mcommit cfecf175fd4f15bb0beb8cb6a692da73c5e8f8e9[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 22:10:04 2021 -0300
+
+    Excecoes 2 NA S10 aula 146
+
+ EstudosCSharp.sln                                |   6 [32m++++[m
+ Excecoes2/Entities/Account.cs                    |  43 [32m+++++++++++++++++++++++[m
+ Excecoes2/Entities/Exceptions/DomainException.cs |  11 [32m++++++[m
+ Excecoes2/Ex2.pdf                                | Bin [31m0[m -> [32m2408304[m bytes
+ Excecoes2/Excecoes2.csproj                       |   8 [32m+++++[m
+ Excecoes2/Program.cs                             |  35 [32m++++++++++++++++++[m
+ 6 files changed, 103 insertions(+)
+
+[33mcommit c887c104b2b00d7911740547684b057948e12250[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 22:06:03 2021 -0300
+
+    Excecoes 1 NA S10 aula 143
+
+ EstudosCSharp.sln                                |   6 [32m+++[m
+ Excecoes1/Entities/Exceptions/DomainException.cs |   9 [32m++++[m
+ Excecoes1/Entities/Reservation.cs                |  56 [32m+++++++++++++++++++++++[m
+ Excecoes1/Ex1.pdf                                | Bin [31m0[m -> [32m5375196[m bytes
+ Excecoes1/Excecoes1.csproj                       |  12 [32m+++++[m
+ Excecoes1/Program.cs                             |  48 [32m+++++++++++++++++++[m
+ 6 files changed, 131 insertions(+)
+
+[33mcommit 5b26d23e7f207d398c4233f0a29151d53ef49d1c[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 20:39:42 2021 -0300
+
+    Heranca 8 NA S09 aula 137
+
+ EstudosCSharp.sln               |   6 [32m+++++[m
+ Heranca8/Entities/Company.cs    |  29 [32m++++++++++++++++++++[m
+ Heranca8/Entities/Individual.cs |  30 [32m+++++++++++++++++++++[m
+ Heranca8/Entities/TaxPayer.cs   |  20 [32m++++++++++++++[m
+ Heranca8/Ex8.pdf                | Bin [31m0[m -> [32m2612243[m bytes
+ Heranca8/Heranca8.csproj        |   8 [32m++++++[m
+ Heranca8/Program.cs             |  57 [32m++++++++++++++++++++++++++++++++++++++++[m
+ 7 files changed, 150 insertions(+)
+
+[33mcommit 9c65a64a308c6967154e5e194764a33c0334f95c[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 20:31:46 2021 -0300
+
+    Heranca 7 Metodos Abstratas NA S09 aula 136
+
+ EstudosCSharp.sln                |   6 [32m+++++[m
+ Heranca7/Entities/Circle.cs      |  20 [32m+++++++++++++++[m
+ Heranca7/Entities/Enums/Color.cs |   9 [32m+++++++[m
+ Heranca7/Entities/Rectangle.cs   |  21 [32m++++++++++++++++[m
+ Heranca7/Entities/Shape.cs       |  16 [32m++++++++++++[m
+ Heranca7/Ex7.pdf                 | Bin [31m0[m -> [32m2290160[m bytes
+ Heranca7/Heranca7.csproj         |   8 [32m++++++[m
+ Heranca7/Program.cs              |  52 [32m+++++++++++++++++++++++++++++++++++++++[m
+ 8 files changed, 132 insertions(+)
+
+[33mcommit 522bb7ee7b7b709abd44534633d112c306dc5f5b[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 19:28:34 2021 -0300
+
+    Heranca 6 Classes Abstratas NA S09 aula 134
+
+ Heranca6/Entities/Account.cs         | 2 [32m+[m[31m-[m
+ Heranca6/Entities/BusinessAccount.cs | 2 [32m+[m[31m-[m
+ Heranca6/Entities/SavingsAccount.cs  | 2 [32m+[m[31m-[m
+ Heranca6/Program.cs                  | 5 [32m+[m[31m----[m
+ 4 files changed, 4 insertions(+), 7 deletions(-)
+
+[33mcommit 79ca8a982fbf92cb328837e17bf1f8185445fdc9[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 19:23:18 2021 -0300
+
+    Heranca 6 NA S09 aula 134
+
+ EstudosCSharp.sln                    |   6 [32m++++[m
+ Heranca6/Entities/Account.cs         |  30 [32m+++++++++++++++++++[m
+ Heranca6/Entities/BusinessAccount.cs |  25 [32m++++++++++++++++[m
+ Heranca6/Entities/SavingsAccount.cs  |  28 [32m++++++++++++++++++[m
+ Heranca6/Ex6.pdf                     | Bin [31m0[m -> [32m2516540[m bytes
+ Heranca6/Heranca6.csproj             |   8 [32m++++++[m
+ Heranca6/Program.cs                  |  54 [32m+++++++++++++++++++++++++++++++++++[m
+ 7 files changed, 151 insertions(+)
+
+[33mcommit cf4559021e73cc7fbe980df348f17f1f35e2be91[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 17:52:16 2021 -0300
+
+    Heranca 5 NA S09 aula 133
+
+ EstudosCSharp.sln                    |   6 [32m++++[m
+ Heranca5/Entities/ImportedProduct.cs |  34 [32m+++++++++++++++++++++++[m
+ Heranca5/Entities/Product.cs         |  27 [32m++++++++++++++++++[m
+ Heranca5/Entities/UsedProduct.cs     |  30 [32m++++++++++++++++++++[m
+ Heranca5/Heranca5.csproj             |   8 [32m++++++[m
+ Heranca5/Program.cs                  |  52 [32m+++++++++++++++++++++++++++++++++++[m
+ Heranca5/ex5.pdf                     | Bin [31m0[m -> [32m1731604[m bytes
+ 7 files changed, 157 insertions(+)
+
+[33mcommit 52c912af4fd69bbd128fd9778a48b677fe0d57ec[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 17:46:38 2021 -0300
+
+    Heranca 4 NA S09 aula 132
+
+ EstudosCSharp.sln                       |   6 [32m++++[m
+ Heranca4/Entities/Employee.cs           |  25 [32m+++++++++++++++++[m
+ Heranca4/Entities/OutsourcedEmployee.cs |  22 [32m+++++++++++++++[m
+ Heranca4/Ex4.pdf                        | Bin [31m0[m -> [32m2557189[m bytes
+ Heranca4/Heranca4.csproj                |   8 [32m++++++[m
+ Heranca4/Program.cs                     |  48 [32m++++++++++++++++++++++++++++++++[m
+ 6 files changed, 109 insertions(+)
+
+[33mcommit 0bd7a8aa56ffaac4f137495adea8d591c2ac1be9[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 17:07:35 2021 -0300
+
+    Heranca 2 Override Virtual Sealed NA S09 aula 128 e 129
+
+ Heranca2/Program.cs | 1 [31m-[m
+ 1 file changed, 1 deletion(-)
+
+[33mcommit e8a053fff4b23a1af01a21ce96a853829c8c5e2f[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 17:06:23 2021 -0300
+
+    Heranca 1 Upcasting Downcasting Base Is As NA S09 aula126 e 127
+
+ Heranca1/Program.cs                 |   2 [32m++[m
+ Heranca2/Entities/SavingsAccount.cs |   8 [32m++++[m[31m----[m
+ Heranca2/Ex2.pdf                    | Bin [31m0[m -> [32m6895064[m bytes
+ Heranca2/Program.cs                 |  37 [32m+++++++++++++++++++++++++++++++++++[m[31m-[m
+ 4 files changed, 42 insertions(+), 5 deletions(-)
+
+[33mcommit 784487a447b0fcbb78f8427ba44cddfb81f2ee4a[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 13:05:46 2021 -0300
+
+    Heranca 1 Upcasting Downcasting Base NA S09 aula126 e 127
+
+ Heranca1/Ex1.pdf                                   | Bin [31m0[m -> [32m8005425[m bytes
+ .../003_prova-logica-de-programacao.pdf            | Bin [31m136116[m -> [32m0[m bytes
+ ...02-introducao-csharp-dotnet(para-anotacoes).pdf | Bin [31m225117[m -> [32m0[m bytes
+ .../005_02-introducao-csharp-dotnet.pdf            | Bin [31m323053[m -> [32m0[m bytes
+ ...ao-de-logica-de-programacao(para-anotacoes).pdf | Bin [31m264732[m -> [32m0[m bytes
+ ...4_03-recapitulacao-de-logica-de-programacao.pdf | Bin [31m345829[m -> [32m0[m bytes
+ .../014_exercicios1-estrutura-sequencial.pdf       | Bin [31m107202[m -> [32m0[m bytes
+ .../014_exercicios2-estrutura-condicional.pdf      | Bin [31m138953[m -> [32m0[m bytes
+ .../014_exercicios3-estrutura-while.pdf            | Bin [31m95976[m -> [32m0[m bytes
+ .../014_exercicios4-estrutura-for.pdf              | Bin [31m103292[m -> [32m0[m bytes
+ .../018_1.05.2+saida-de-dados-C#.txt               |  34 [31m---------------------[m
+ .../022_1.05.3+entrada-de-dados-C#.txt             |  26 [31m----------------[m
+ .../027_1.07.2+estrutura-condicional-C#.txt        |  31 [31m-------------------[m
+ ...es-atributos-metodos-static(para-anotacoes).pdf | Bin [31m241334[m -> [32m0[m bytes
+ .../037_04-classes-atributos-metodos-static.pdf    | Bin [31m243067[m -> [32m0[m bytes
+ .../037_correcao-exercicios-fixacao.pdf            | Bin [31m128280[m -> [32m0[m bytes
+ PDF_Udemy_NelioAlves/037_primeiros-exercicios.pdf  | Bin [31m85017[m -> [32m0[m bytes
+ PDF_Udemy_NelioAlves/03_original.pdf               | Bin [31m136116[m -> [32m0[m bytes
+ ...s-sobrecarga-encapsulamento(para-anotacoes).pdf | Bin [31m175918[m -> [32m0[m bytes
+ ...construtores-this-sobrecarga-encapsulamento.pdf | Bin [31m184368[m -> [32m0[m bytes
+ ...64_06-memoria-arrays-listas(para-anotacoes).pdf | Bin [31m255614[m -> [32m0[m bytes
+ .../064_06-memoria-arrays-listas.pdf               | Bin [31m323931[m -> [32m0[m bytes
+ .../084_07-topicos-especiais-parte1.pdf            | Bin [31m150976[m -> [32m0[m bytes
+ .../095_material-de-apoio-secao-git-github.pdf     | Bin [31m1699371[m -> [32m0[m bytes
+ .../113_09-enumeracoes-composicao.pdf              | Bin [31m406032[m -> [32m0[m bytes
+ .../125_10-heranca-polimorfismo.pdf                | Bin [31m231643[m -> [32m0[m bytes
+ .../139_11-tratamento-de-excecoes.pdf              | Bin [31m154782[m -> [32m0[m bytes
+ .../147_projeto-completo-para-clonar.pdf           | Bin [31m88672[m -> [32m0[m bytes
+ PDF_Udemy_NelioAlves/185_arquivos.pdf              | Bin [31m141368[m -> [32m0[m bytes
+ PDF_Udemy_NelioAlves/193_interfaces.pdf            | Bin [31m411283[m -> [32m0[m bytes
+ .../203_14-generics-set-dictionary.pdf             | Bin [31m914479[m -> [32m0[m bytes
+ .../216_topicos-especiais-parte2.pdf               | Bin [31m101306[m -> [32m0[m bytes
+ .../218_17-lambda-delegates-linq.pdf               | Bin [31m248076[m -> [32m0[m bytes
+ PDF_Udemy_NelioAlves/235_entity-framework.pdf      | Bin [31m956951[m -> [32m0[m bytes
+ .../235_projeto-asp-net-core-mvc-ef.pdf            | Bin [31m373124[m -> [32m0[m bytes
+ 35 files changed, 91 deletions(-)
+
+[33mcommit c76a0467ad08fe88de2739192f71414b7e4ac8f1[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 12:59:59 2021 -0300
+
+    PDF Udemy Curso completo CSharp Nelio Alves
+
+ EstudosCSharp.sln                                  |   6 [32m++++[m
+ Heranca2/Entities/Account.cs                       |  30 [32m++++++++++++++++++[m
+ Heranca2/Entities/BusinessAccount.cs               |  25 [32m+++++++++++++++[m
+ Heranca2/Entities/SavingsAccount.cs                |  28 [32m+++++++++++++++++[m
+ Heranca2/Heranca2.csproj                           |   8 [32m+++++[m
+ Heranca2/Program.cs                                |  23 [32m++++++++++++++[m
+ .../003_prova-logica-de-programacao.pdf            | Bin [31m0[m -> [32m136116[m bytes
+ ...02-introducao-csharp-dotnet(para-anotacoes).pdf | Bin [31m0[m -> [32m225117[m bytes
+ .../005_02-introducao-csharp-dotnet.pdf            | Bin [31m0[m -> [32m323053[m bytes
+ ...ao-de-logica-de-programacao(para-anotacoes).pdf | Bin [31m0[m -> [32m264732[m bytes
+ ...4_03-recapitulacao-de-logica-de-programacao.pdf | Bin [31m0[m -> [32m345829[m bytes
+ .../014_exercicios1-estrutura-sequencial.pdf       | Bin [31m0[m -> [32m107202[m bytes
+ .../014_exercicios2-estrutura-condicional.pdf      | Bin [31m0[m -> [32m138953[m bytes
+ .../014_exercicios3-estrutura-while.pdf            | Bin [31m0[m -> [32m95976[m bytes
+ .../014_exercicios4-estrutura-for.pdf              | Bin [31m0[m -> [32m103292[m bytes
+ .../018_1.05.2+saida-de-dados-C#.txt               |  34 [32m+++++++++++++++++++++[m
+ .../022_1.05.3+entrada-de-dados-C#.txt             |  26 [32m++++++++++++++++[m
+ .../027_1.07.2+estrutura-condicional-C#.txt        |  31 [32m+++++++++++++++++++[m
+ ...es-atributos-metodos-static(para-anotacoes).pdf | Bin [31m0[m -> [32m241334[m bytes
+ .../037_04-classes-atributos-metodos-static.pdf    | Bin [31m0[m -> [32m243067[m bytes
+ .../037_correcao-exercicios-fixacao.pdf            | Bin [31m0[m -> [32m128280[m bytes
+ PDF_Udemy_NelioAlves/037_primeiros-exercicios.pdf  | Bin [31m0[m -> [32m85017[m bytes
+ PDF_Udemy_NelioAlves/03_original.pdf               | Bin [31m0[m -> [32m136116[m bytes
+ ...s-sobrecarga-encapsulamento(para-anotacoes).pdf | Bin [31m0[m -> [32m175918[m bytes
+ ...construtores-this-sobrecarga-encapsulamento.pdf | Bin [31m0[m -> [32m184368[m bytes
+ ...64_06-memoria-arrays-listas(para-anotacoes).pdf | Bin [31m0[m -> [32m255614[m bytes
+ .../064_06-memoria-arrays-listas.pdf               | Bin [31m0[m -> [32m323931[m bytes
+ .../084_07-topicos-especiais-parte1.pdf            | Bin [31m0[m -> [32m150976[m bytes
+ .../095_material-de-apoio-secao-git-github.pdf     | Bin [31m0[m -> [32m1699371[m bytes
+ .../113_09-enumeracoes-composicao.pdf              | Bin [31m0[m -> [32m406032[m bytes
+ .../125_10-heranca-polimorfismo.pdf                | Bin [31m0[m -> [32m231643[m bytes
+ .../139_11-tratamento-de-excecoes.pdf              | Bin [31m0[m -> [32m154782[m bytes
+ .../147_projeto-completo-para-clonar.pdf           | Bin [31m0[m -> [32m88672[m bytes
+ PDF_Udemy_NelioAlves/185_arquivos.pdf              | Bin [31m0[m -> [32m141368[m bytes
+ PDF_Udemy_NelioAlves/193_interfaces.pdf            | Bin [31m0[m -> [32m411283[m bytes
+ .../203_14-generics-set-dictionary.pdf             | Bin [31m0[m -> [32m914479[m bytes
+ .../216_topicos-especiais-parte2.pdf               | Bin [31m0[m -> [32m101306[m bytes
+ .../218_17-lambda-delegates-linq.pdf               | Bin [31m0[m -> [32m248076[m bytes
+ PDF_Udemy_NelioAlves/235_entity-framework.pdf      | Bin [31m0[m -> [32m956951[m bytes
+ .../235_projeto-asp-net-core-mvc-ef.pdf            | Bin [31m0[m -> [32m373124[m bytes
+ 40 files changed, 211 insertions(+)
+
+[33mcommit e7cdb43a3e71e20366d96191b0fb8fc26ae0bf9e[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Sat Jan 23 12:12:52 2021 -0300
+
+    Heranca 1 Upcasting Downcasting Base NA S09 aula126 e 127
+
+ EstudosCSharp.sln                    |  6 [32m+++[m
+ Heranca1/Entities/Account.cs         | 32 [32m++++++++++++++[m
+ Heranca1/Entities/BusinessAccount.cs | 26 [32m++++++++++++[m
+ Heranca1/Entities/SavingsAccount.cs  | 22 [32m++++++++++[m
+ Heranca1/Heranca1.csproj             |  8 [32m++++[m
+ Heranca1/Program.cs                  | 81 [32m++++++++++++++++++++++++++++++++++++[m
+ 6 files changed, 175 insertions(+)
+
+[33mcommit 42b094cae286fd722cefd0110a229d3e63fb97ce[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Fri Jan 22 18:13:46 2021 -0300
+
+    Composicao 3 NA S09 aula123
+
+ Composicao3/Composicao3.csproj            |   8 [32m++++[m
+ Composicao3/Entities/Client.cs            |  31 [32m++++++++++++++[m
+ Composicao3/Entities/Enums/OrderStatus.cs |  13 [32m++++++[m
+ Composicao3/Entities/Order.cs             |  65 [32m++++++++++++++++++++++++++++++[m
+ Composicao3/Entities/OrderItem.cs         |  38 [32m+++++++++++++++++[m
+ Composicao3/Entities/Product.cs           |  22 [32m++++++++++[m
+ Composicao3/Ex3.pdf                       | Bin [31m0[m -> [32m2585111[m bytes
+ Composicao3/Program.cs                    |  64 [32m+++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln                         |   6 [32m+++[m
+ 9 files changed, 247 insertions(+)
+
+[33mcommit cc3e9c41622aea4255e3c0e71219262ac67a2950[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Fri Jan 22 17:50:42 2021 -0300
+
+    Composicao 2 StringBuilder NA S09 aula122
+
+ Composicao2/Composicao2.csproj  |   8 [32m++++++[m
+ Composicao2/Entities/Comment.cs |  16 [32m++++++++++++[m
+ Composicao2/Entities/Post.cs    |  54 [32m++++++++++++++++++++++++++++++++++++++++[m
+ Composicao2/Ex02.pdf            | Bin [31m0[m -> [32m1579604[m bytes
+ Composicao2/Program.cs          |  53 [32m+++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln               |   6 [32m+++++[m
+ 6 files changed, 137 insertions(+)
+
+[33mcommit db0bb3163ff037b6459f1141d556fa201715eb99[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Fri Jan 22 08:47:49 2021 -0300
+
+    Composicao 1 NA S09 aula119
+
+ Composicao1/Composicao1.csproj            |   8 [32m+++[m
+ Composicao1/Entities/Department.cs        |  16 [32m++++++[m
+ Composicao1/Entities/Enums/WorkerLevel.cs |   9 [32m++++[m
+ Composicao1/Entities/HourContract.cs      |  27 [32m++++++++++[m
+ Composicao1/Entities/Worker.cs            |  58 [32m+++++++++++++++++++++[m
+ Composicao1/Ex01.pdf                      | Bin [31m0[m -> [32m3330011[m bytes
+ Composicao1/Program.cs                    |  84 [32m++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln                         |  10 [32m+++[m[31m-[m
+ 8 files changed, 210 insertions(+), 2 deletions(-)
+
+[33mcommit b137b82c967f6fa1d27ef5afeda61ce9bcf6a481[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Fri Jan 22 07:35:21 2021 -0300
+
+    Enumeracao 1 NA S09 aula115
+
+ Enumeracao1/Entities/Enums/OrderStatus.cs | 16 [32m++++++++++[m
+ Enumeracao1/Entities/Order.cs             | 23 [32m++++++++++++++[m
+ Enumeracao1/Enumeracao1.csproj            |  8 [32m+++++[m
+ Enumeracao1/Program.cs                    | 50 [32m+++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln                         |  6 [32m++++[m
+ 5 files changed, 103 insertions(+)
+
+[33mcommit 371c521a7e493f15618f512c5f78b878421bb9a8[m
+Author: Pedro Machado Pestka <pedro.pestka@hotmail.com>
+Date:   Thu Jan 21 19:38:42 2021 -0300
+
+    String 1 NA S07 aula88
+
+ .gitignore             | 362 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ EstudosCSharp.sln      |  25 [32m++++[m
+ String1/Program.cs     |  63 [32m+++++++++[m
+ String1/String1.csproj |   8 [32m++[m
+ 4 files changed, 458 insertions(+)
