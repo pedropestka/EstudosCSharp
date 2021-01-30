@@ -10,7 +10,6 @@ namespace Generics02
     {
         static void Main(string[] args)
         {
-
             List<Product> list = new List<Product>();
 
             Console.Write("Enter the number of products: ");

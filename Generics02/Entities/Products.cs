@@ -5,7 +5,6 @@ namespace Generics02.Entities
 {
     class Product : IComparable
     {
-
         public string Name { get; set; }
         public double Price { get; set; }
 

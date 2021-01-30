@@ -5,7 +5,7 @@ namespace Generics02.Services
 {
     class CalculationService
     {
-        // método genérico
+        // Método genérico
         public T Max<T>(List<T> list) where T : IComparable 
         {
             if (list.Count == 0)
