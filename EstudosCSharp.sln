@@ -77,8 +77,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set03", "Set03\Set03.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dicionario01", "Dicionario01\Dicionario01.csproj", "{D2A85587-DCC5-4769-895E-1691D6B6FEB5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dicionario02", "Dicionario02\Dicionario02.csproj", "{4A22667F-199B-4196-BDF1-AE5D72260285}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions01", "Extensions01\Extensions01.csproj", "{14B137B1-D5F6-4E6E-AAE9-D1A3C29AD087}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions02", "Extensions02\Extensions02.csproj", "{AB78B031-A78D-4ADC-A222-C634EE139933}"
@@ -96,6 +94,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda06", "Lambda06\Lambda06.csproj", "{463AE1CB-0757-4295-91AD-4C8729291B7F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq01", "Linq01\Linq01.csproj", "{0DCAD520-2C0B-47C6-B017-124D611D1F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dicionario02", "Dicionario02\Dicionario02.csproj", "{BA26EE42-C336-4E03-A0C1-24C211BFDD92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,10 +251,6 @@ Global
 		{D2A85587-DCC5-4769-895E-1691D6B6FEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2A85587-DCC5-4769-895E-1691D6B6FEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2A85587-DCC5-4769-895E-1691D6B6FEB5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A22667F-199B-4196-BDF1-AE5D72260285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A22667F-199B-4196-BDF1-AE5D72260285}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A22667F-199B-4196-BDF1-AE5D72260285}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A22667F-199B-4196-BDF1-AE5D72260285}.Release|Any CPU.Build.0 = Release|Any CPU
 		{14B137B1-D5F6-4E6E-AAE9-D1A3C29AD087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{14B137B1-D5F6-4E6E-AAE9-D1A3C29AD087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14B137B1-D5F6-4E6E-AAE9-D1A3C29AD087}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -291,6 +287,10 @@ Global
 		{0DCAD520-2C0B-47C6-B017-124D611D1F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DCAD520-2C0B-47C6-B017-124D611D1F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DCAD520-2C0B-47C6-B017-124D611D1F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA26EE42-C336-4E03-A0C1-24C211BFDD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA26EE42-C336-4E03-A0C1-24C211BFDD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA26EE42-C336-4E03-A0C1-24C211BFDD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA26EE42-C336-4E03-A0C1-24C211BFDD92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
