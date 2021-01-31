@@ -13,7 +13,7 @@ namespace Lambda04
 			lista.Add(new Product("Tablet", 350.50));
 			lista.Add(new Product("HD Case", 80.90));
 
-			//lista.RemoveAll(p => p.Price >= 100.0); sem a funcao estática Teste produto
+			//lista.RemoveAll(p => p.Price >= 100.0); sem a funcao estática Teste produto 
 			lista.RemoveAll(TesteProduto);
 
 			foreach (Product p in lista)

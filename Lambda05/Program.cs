@@ -22,7 +22,7 @@ namespace Lambda05
 			// inline
 			// lista.ForEach(p => { p.Price += p.Price * 0.1; });
 
-			//lista.ForEach(AlterarDados);
+			//lista.ForEach(AlterarDados); 
 
 			foreach (Product p in lista)
 			{

@@ -9,7 +9,7 @@ namespace Lambda02
 		{
 			double a = 10;
 			double b = 12;
-			// BinaryNumericOperation op = CalculationService.Sum;
+			// BinaryNumericOperation op = CalculationService.Sum; 
 			BinaryNumericOperation op = new BinaryNumericOperation(CalculationService.Sum);
 			// double result = op(a, b);
 			double result = op.Invoke(a, b);

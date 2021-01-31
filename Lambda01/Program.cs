@@ -34,5 +34,4 @@ namespace Lambda01
 Notebook, 1200.00
 Tablet, 450.00
 TV, 900.00
-
 */

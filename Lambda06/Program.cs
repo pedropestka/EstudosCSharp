@@ -16,7 +16,7 @@ namespace Lambda06
 			list.Add(new Product("HD Case", 80.90));
 
 
-			//Func<Product, string> func = p => p.Name.ToUpper(); -->> expressao lambda
+			//Func<Product, string> func = p => p.Name.ToUpper(); -->>  expressao lambda
 			//Func<Product, string> func = p => {return p.Name.ToUpper()}; -- >> outra forma
 			//List<string> result = list.Select(func).ToList();
 

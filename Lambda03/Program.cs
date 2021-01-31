@@ -13,7 +13,7 @@ namespace Lambda03
 			BinaryNumericOperation op = CalculationService.ShowSum;
 			op += CalculationService.ShowMax;
 			
-			op(a,b);//op.Invoke(a, b);
+			op(a,b);//op.Invoke(a, b); 
 
 			Console.ReadLine();
 		}
